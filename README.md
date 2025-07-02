@@ -23,15 +23,6 @@ Live preview here
 
     Importance of checking image paths and folder structures carefully when working with local assets.
 
-Example snippet I’m proud of:
-
-<div class="flex min-h-screen items-center justify-center">
-  <div class="bg-white p-6 rounded-xl shadow-lg text-center">
-    <img src="..." class="rounded-xl" alt="QR Code">
-    <h3 class="font-bold text-xl mt-4 mb-2">Improve your front-end skills...</h3>
-    <p class="text-gray-500 text-sm">Scan the QR code...</p>
-  </div>
-</div>
 
 🚀 Continued Development
 
