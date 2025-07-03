@@ -1,9 +1,11 @@
 @import "tailwindcss";
-
+body{
+    background: hsl(212, 45%, 89%);
+}
 
 @theme{
-    --color-bgblue: hsl(212, 45%, 89%);
-    --color-para: hsl(216, 15%, 48%);
+    
+    --color-para: hsl(212, 45%, 89%);
     --color-header: hsl(218, 44%, 22%);
 
 }

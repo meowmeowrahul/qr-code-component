@@ -3,8 +3,8 @@ Frontend Mentor - QR Code Component
 This is my solution to the QR Code Component challenge on Frontend Mentor. The challenge was a great way to practice basic layout skills using HTML and Tailwind CSS.
 🔗 Live Site
 
-Live preview here
-(Add your live deployment link)
+    https://meowmeowrahul.github.io/qr-code-component/
+
 🛠️ Built With
 
     Semantic HTML5
